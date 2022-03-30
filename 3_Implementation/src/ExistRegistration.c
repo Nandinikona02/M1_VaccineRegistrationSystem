@@ -1,5 +1,5 @@
 #include"stdio.h"
-#include "regist.h"
+#include "Registration.h"
 
 // Patients already registered list is given as input for verification
 // pd stands for patient details
