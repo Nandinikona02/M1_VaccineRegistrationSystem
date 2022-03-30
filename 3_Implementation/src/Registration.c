@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "regist.h"
+#include "Registration.h"
 
 int regist_status(long p){
 
